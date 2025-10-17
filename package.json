@@ -1,0 +1,12 @@
+{
+  "name": "sinyalforexse_bot",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
